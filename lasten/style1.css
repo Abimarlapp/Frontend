@@ -1,0 +1,11 @@
+h1{
+    color: blue;
+    border: 10px solid red;
+    padding: 10px;
+    margin: 50px;
+}
+body{
+    background: url(Nature.jpg) no-repeat bottom center ;
+    text-shadow: 0px 2px 5px red;
+    font-family: 'Courier New', Courier, monospace;
+}
